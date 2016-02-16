@@ -1,0 +1,58 @@
+.opensans{
+	font-family: 'Open Sans', sans-serif;
+}
+
+.roboto{
+	font-family: 'Roboto Slab', serif;
+}
+
+.indie_flower{
+	font-family: 'Indie Flower', cursive;
+}
+
+html,
+body {
+  height: 100%;
+  background-color: #151618 !important;
+}
+body {
+  color: #fff;
+  text-align: center;
+  text-shadow: 0 1px 3px rgba(0,0,0,.5);
+}
+
+h1{
+	font-size: 4em;
+}
+
+h2{
+	font-size: 3em;
+}
+
+.margin-top{
+	margin-top: 15px;
+}
+
+.margin-top-big{
+	margin-top: 30px;
+}
+
+img{
+	max-width: 100%;
+}
+
+.no-float{
+	float: none;
+}
+
+.delay1{
+	-webkit.animation-delay: 1s;
+	-moz-animation-delay: 1s;
+	animation-delay: 1s;
+}
+
+.delay2{
+	-webkit.animation-delay: 2s;
+	-moz-animation-delay: 2s;
+	animation-delay: 2s;
+}
